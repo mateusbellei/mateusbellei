@@ -27,7 +27,7 @@
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
   ![Node.js](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
   ![Next.js](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 - 🕹️ General &nbsp;
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
