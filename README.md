@@ -44,7 +44,7 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mateus-bellei-088870207"><img src="https://img.shields.io/badge/-Mateus%20Bellei-0077B5?style=flat-square&logo=Linkedin&logoColor=white""/ target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-bellei"><img src="https://img.shields.io/badge/-Mateus%20Bellei-0077B5?style=flat-square&logo=Linkedin&logoColor=white""/ target="_blank"></a>
 
 <!--
 **m7bellei/m7bellei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
