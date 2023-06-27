@@ -9,7 +9,7 @@
 - 🦾 &nbsp; Mastering Vue, Laravel and C++
 - ⏱️ &nbsp; +2 Years of experience with commercial software web development
 - 🚀 &nbsp; Never stop learning mindset
-
+- 💖 &nbsp; Focused in Web Development and Game Development
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,6 +40,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
+### 🗺️ &nbsp;Projects
+- 🐱‍👤 &nbsp; Developing Ninja Path MMO Rpg
+- 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
 
 ##  🤝🏻 &nbsp;Connect with Me
 
