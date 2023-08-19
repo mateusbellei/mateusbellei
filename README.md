@@ -19,12 +19,13 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Vue](https://img.shields.io/badge/VueJS-%2335495e?style=flat-square&logo=vue.js&logoColor=%234FC08D)
-  ![Vuex](https://img.shields.io/badge/-Vuex-33475B?style=flat-square&logo=vuex&logoColor=white)
   ![Nuxt](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
-  ![Pinia](https://img.shields.io/badge/-Pinia-42b983?style=flat-square&logo=pinia&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=007ACC&color=007ACC)
+- 📊 Stage Management &nbsp;
+  ![Vuex](https://img.shields.io/badge/-Vuex-33475B?style=flat-square&logo=vuex&logoColor=white)
+  ![Pinia](https://img.shields.io/badge/-Pinia-42b983?style=flat-square&logo=pinia&logoColor=white)
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 - 🛢 Backend &nbsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
