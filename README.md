@@ -51,7 +51,7 @@
 
 ### Total Contributions
 
-<p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7bellei" alt="mateusbellei" /></p>
+<p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7bellei&mateusbellei-koreconx" alt="mateusbellei" /></p>
 
 ##  🤝🏻 &nbsp;Connect with Me
 
