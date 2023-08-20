@@ -2,6 +2,8 @@
 
 ## I'm Mateus Bellei, Software Developer and Web Developer
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=m7bellei&label=Profile%20views&color=0e75b6&style=flat" alt="mateusbellei" /></p>
+
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
@@ -49,7 +51,7 @@
 - 🐱‍👤 &nbsp; Developing Ninja Path MMO Rpg
 - 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
 
-### Total Contributions
+### Total Contributions & Work Streak
 
 <p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7bellei" alt="mateusbellei" /></p>
 
