@@ -49,6 +49,10 @@
 - 🐱‍👤 &nbsp; Developing Ninja Path MMO Rpg
 - 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
 
+### Total Contributions
+
+<p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7bellei" alt="mateusbellei" /></p>
+
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
