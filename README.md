@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 ## I'm Mateus Bellei, Software Developer and Web Developer
 
