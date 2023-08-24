@@ -25,7 +25,7 @@
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=007ACC&color=007ACC)
-- 📊 Stage Management &nbsp;
+- 📊 State Management &nbsp;
   ![Vuex](https://img.shields.io/badge/-Vuex-33475B?style=flat-square&logo=vuex&logoColor=white)
   ![Pinia](https://img.shields.io/badge/-Pinia-42b983?style=flat-square&logo=pinia&logoColor=white)
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
