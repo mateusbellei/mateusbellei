@@ -48,7 +48,7 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 ### 🗺️ &nbsp;Projects
-- 🐱‍👤 &nbsp; Developing Ninja Tales (NTO) MMORPG
+- 🐱‍👤 &nbsp; Developing Ninja Saga (NSO) MMORPG
 - 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
 
 ### Total Contributions & Work Streak
