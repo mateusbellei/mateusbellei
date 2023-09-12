@@ -33,12 +33,26 @@
 
 - 🛢 Backend  
   <div>
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,next,prisma,graphql,c,cpp,lua,python&perline=14" />
+    <img src="https://skillicons.dev/icons?i=php&perline=14" title="PHP" />
+    <img src="https://skillicons.dev/icons?i=laravel&perline=14" title="Laravel" />
+    <img src="https://skillicons.dev/icons?i=mysql&perline=14" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=nodejs&perline=14" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=next&perline=14" title="Next.js" />
+    <img src="https://skillicons.dev/icons?i=prisma&perline=14" title="Prisma" />
+    <img src="https://skillicons.dev/icons?i=graphql&perline=14" title="GraphQL" />
+    <img src="https://skillicons.dev/icons?i=c&perline=14" title="C" />
+    <img src="https://skillicons.dev/icons?i=cpp&perline=14" title="C++" />
+    <img src="https://skillicons.dev/icons?i=lua&perline=14" title="Lua" />
+    <img src="https://skillicons.dev/icons?i=python&perline=14" title="Python" />
   </div>
 
 - ⚙️ Tools  
   <div>
-    <img src="https://skillicons.dev/icons?i=git,github,md,vscode,visualstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git&perline=14" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github&perline=14" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=md&perline=14" title="Markdown" />
+    <img src="https://skillicons.dev/icons?i=vscode&perline=14" title="Visual Studio Code" />
+    <img src="https://skillicons.dev/icons?i=visualstudio&perline=14" title="Visual Studio" />
   </div>
 
 ### 🗺️ &nbsp;Projects
