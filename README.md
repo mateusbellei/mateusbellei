@@ -14,12 +14,20 @@
 - 💖 &nbsp; Focused in Web Development and Game Development
 
 ### 🛠 &nbsp;Tech Stack
-- 🌐 Frontend
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vuejs,nuxtjs,react,tailwind,bootstrap,figma,photoshop&perline=14" />
-- 🛢 Backend
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,next,prisma,graphql,c,cpp,lua,python&perline=14" />
-- ⚙️ Tools
-  <img src="https://skillicons.dev/icons?i=git,github,md,vscode,visualstudio&perline=14" />
+- 🌐 Frontend  
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vuejs,nuxtjs,react,tailwind,bootstrap,figma,photoshop&perline=14" />
+  </div>
+
+- 🛢 Backend  
+  <div>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,next,prisma,graphql,c,cpp,lua,python&perline=14" />
+  </div>
+
+- ⚙️ Tools  
+  <div>
+    <img src="https://skillicons.dev/icons?i=git,github,md,vscode,visualstudio&perline=14" />
+  </div>
 
 ### 🗺️ &nbsp;Projects
 - 🐱‍👤 &nbsp; Developing Ninja Saga (NSO) MMORPG
