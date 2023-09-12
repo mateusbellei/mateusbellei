@@ -60,8 +60,6 @@
 - 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
 
 ### Total Contributions & Work Statistics
-<p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7bellei" alt="mateusbellei" /></p>
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
