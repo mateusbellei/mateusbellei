@@ -16,7 +16,7 @@
 ### 🛠 &nbsp;Tech Stack
 - 🌐 Frontend  
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vuejs,nuxtjs,react,tailwind,bootstrap,figma,photoshop&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vuejs,nuxtjs,react,tailwind,bootstrap,figma,photoshop&perline=14" title="test" />
   </div>
 
 - 🛢 Backend  
