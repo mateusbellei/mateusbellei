@@ -18,6 +18,17 @@
   <div>
     <img src="https://skillicons.dev/icons?i=html&perline=14" title="HTML" />
     <img src="https://skillicons.dev/icons?i=css&perline=14" title="CSS" />
+    <img src="https://skillicons.dev/icons?i=js&perline=14" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=ts&perline=14" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=vuejs&perline=14" title="VueJS" />
+    <img src="https://skillicons.dev/icons?i=nuxtjs&perline=14" title="NuxtJS" />
+    <img src="https://skillicons.dev/icons?i=vite&perline=14" title="Vite" />
+    <img src="https://skillicons.dev/icons?i=react&perline=14" title="React" />
+    <img src="https://skillicons.dev/icons?i=redux&perline=14" title="Redux" />
+    <img src="https://skillicons.dev/icons?i=tailwind&perline=14" title="Tailwind" />
+    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" title="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=figma&perline=14" title="Figma" />
+    <img src="https://skillicons.dev/icons?i=photoshop&perline=14" title="Photoshop" />
   </div>
 
 - 🛢 Backend  
