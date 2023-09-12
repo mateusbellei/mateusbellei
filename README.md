@@ -14,46 +14,49 @@
 - 💖 &nbsp; Focused in Web Development and Game Development
 
 ### 🛠 &nbsp;Tech Stack
-
 - 🌐 Frontend &nbsp;
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Vue](https://img.shields.io/badge/VueJS-%2335495e?style=flat-square&logo=vue.js&logoColor=%234FC08D)
-  ![Nuxt](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=007ACC&color=007ACC)
-- 📊 State Management &nbsp;
-  ![Vuex](https://img.shields.io/badge/-Vuex-33475B?style=flat-square&logo=vuex&logoColor=white)
-  ![Pinia](https://img.shields.io/badge/-Pinia-42b983?style=flat-square&logo=pinia&logoColor=white)
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vuejs,nuxtjs,react,tailwind,bootstrap,figma,photoshop&perline=14" />
 - 🛢 Backend &nbsp;
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![Prsima](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-- 🕹️ General &nbsp;
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,next,prisma,graphql,c,cpp,lua,python&perline=14" />
 - ⚙️ Tools &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 IDEs &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=git,github,md,vscode,visualstudio&perline=14" />
 
 ### 🗺️ &nbsp;Projects
 - 🐱‍👤 &nbsp; Developing Ninja Saga (NSO) MMORPG
 - 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
 
-### Total Contributions & Work Streak
-
+### Total Contributions & Work Statistics
 <p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7bellei" alt="mateusbellei" /></p>
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=m7bellei&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=m7bellei&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=m7bellei&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=m7bellei&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 ##  🤝🏻 &nbsp;Connect with Me
 
