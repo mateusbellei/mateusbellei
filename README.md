@@ -14,11 +14,11 @@
 - 💖 &nbsp; Focused in Web Development and Game Development
 
 ### 🛠 &nbsp;Tech Stack
-- 🌐 Frontend &nbsp;
+- 🌐 Frontend
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vuejs,nuxtjs,react,tailwind,bootstrap,figma,photoshop&perline=14" />
-- 🛢 Backend &nbsp;
+- 🛢 Backend
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,next,prisma,graphql,c,cpp,lua,python&perline=14" />
-- ⚙️ Tools &nbsp;
+- ⚙️ Tools
   <img src="https://skillicons.dev/icons?i=git,github,md,vscode,visualstudio&perline=14" />
 
 ### 🗺️ &nbsp;Projects
