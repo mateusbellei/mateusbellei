@@ -46,7 +46,7 @@
     <img src="https://skillicons.dev/icons?i=python&perline=14" title="Python" />
   </div>
 
-- ⚙️ Tools  
+- ⚙️ Tools & IDEs  
   <div>
     <img src="https://skillicons.dev/icons?i=git&perline=14" title="Git" />
     <img src="https://skillicons.dev/icons?i=github&perline=14" title="GitHub" />
