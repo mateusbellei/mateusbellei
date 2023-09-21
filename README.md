@@ -59,7 +59,7 @@
 - 🐱‍👤 &nbsp; Developing Ninja Saga (NSO) MMORPG
 - 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
 
-### Total Contributions & Work Statistics
+### Work Activity
 
 <!--- stats & Trophy (start) -->
 <p align="center">
