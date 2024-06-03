@@ -56,7 +56,6 @@
   </div>
 
 ### 🗺️ &nbsp;Projects
-- 🐱‍👤 &nbsp; Developing Ninja Saga (NSO) MMORPG
 - 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
 
 ### Work Activity
