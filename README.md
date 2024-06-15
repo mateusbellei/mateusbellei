@@ -22,6 +22,7 @@
     <img src="https://skillicons.dev/icons?i=ts&perline=14" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=vuejs&perline=14" title="VueJS" />
     <img src="https://skillicons.dev/icons?i=nuxtjs&perline=14" title="Nuxt" />
+    <img src="https://skillicons.dev/icons?i=pinia&perline=14" title="Pinia" />
     <img src="https://skillicons.dev/icons?i=vite&perline=14" title="Vite" />
     <img src="https://skillicons.dev/icons?i=react&perline=14" title="React" />
     <img src="https://skillicons.dev/icons?i=redux&perline=14" title="Redux" />
