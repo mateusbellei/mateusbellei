@@ -36,6 +36,7 @@
   <div>
     <img src="https://skillicons.dev/icons?i=php&perline=14" title="PHP" />
     <img src="https://skillicons.dev/icons?i=laravel&perline=14" title="Laravel" />
+    <img src="https://skillicons.dev/icons?i=ruby&perline=14" title="Ruby" />
     <img src="https://skillicons.dev/icons?i=mysql&perline=14" title="MySQL" />
     <img src="https://skillicons.dev/icons?i=nodejs&perline=14" title="Node.js" />
     <img src="https://skillicons.dev/icons?i=next&perline=14" title="Next.js" />
