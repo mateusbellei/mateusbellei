@@ -55,6 +55,8 @@
     <img src="https://skillicons.dev/icons?i=md&perline=14" title="Markdown" />
     <img src="https://skillicons.dev/icons?i=vscode&perline=14" title="Visual Studio Code" />
     <img src="https://skillicons.dev/icons?i=visualstudio&perline=14" title="Visual Studio" />
+    <img src="https://skillicons.dev/icons?i=kali&perline=14" title="Kali Toolkit" />
+    <img src="https://skillicons.dev/icons?i=unity&perline=14" title="Unity" />
     <img src="https://skillicons.dev/icons?i=aws&perline=14" title="AWS" />
   </div>
 
