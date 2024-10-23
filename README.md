@@ -11,7 +11,7 @@
 - 🦾 &nbsp; Mastering Vue, Laravel, Python and C++
 - ⏱️ &nbsp; +3 Years of experience with commercial software web development
 - 🚀 &nbsp; Never stop learning mindset
-- 💖 &nbsp; Focusing on Web Development, Game Development, Software Engineering, AI Development
+- 💖 &nbsp; Focusing on Web Development, Game Development, Software Engineering, AI Research
 
 ### 🛠 &nbsp;Tech Stack
 - 🌐 Frontend  
