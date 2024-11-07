@@ -80,6 +80,7 @@
   <img src="https://skillicons.dev/icons?i=ps" title="Photoshop" />
   <img src="https://skillicons.dev/icons?i=unity" title="Unity" />
   <img width="48" height="48" src="https://art.pixilart.com/f97a745139e4504.png" title="Aseprite" />
+  <img width="48" height="48" src="https://www.pixellab.ai/subscription_image/apprentice.webp" title="PixelLab IA" />
   <img src="https://skillicons.dev/icons?i=ai" title="Cursor AI" />
   <img src="https://skillicons.dev/icons?i=ai" title="Copilot++" />
   <img src="https://skillicons.dev/icons?i=ai" title="GPT 4o+" />
