@@ -21,6 +21,9 @@
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=reactjs" title="React.js" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
+  <img src="https://skillicons.dev/icons?i=next" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
@@ -35,8 +38,9 @@
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
+  <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
   <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
 </div>
 
