@@ -81,9 +81,9 @@
   <img src="https://skillicons.dev/icons?i=unity" title="Unity" />
   <img width="48" height="48" src="https://art.pixilart.com/f97a745139e4504.png" title="Aseprite" />
   <img width="48" height="48" src="https://www.pixellab.ai/subscription_image/apprentice.webp" title="PixelLab IA" />
-  <img src="https://skillicons.dev/icons?i=ai" title="Cursor AI" />
-  <img src="https://skillicons.dev/icons?i=ai" title="Copilot++" />
-  <img src="https://skillicons.dev/icons?i=ai" title="GPT 4o+" />
+  <img width="48" height="48" src="https://avatars.githubusercontent.com/u/126759922?s=48&v=4" title="Cursor AI" />
+  <img width="48" height="48" src="https://avatars.githubusercontent.com/u/126759922?s=48&v=4" src="https://skillicons.dev/icons?i=ai" title="Copilot++" />
+  <img width="48" height="48" src="https://avatars.githubusercontent.com/u/14957082?s=48&v=4" title="GPT 4o+" />
 </div>
 
 
