@@ -75,7 +75,7 @@
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
   <img src="https://skillicons.dev/icons?i=ps" title="Photoshop" />
   <img src="https://skillicons.dev/icons?i=unity" title="Unity" />
-  <img width="24" height="24" src="https://art.pixilart.com/f97a745139e4504.png" title="Aseprite" />
+  <img width="48" height="48" src="https://art.pixilart.com/f97a745139e4504.png" title="Aseprite" />
   <img src="https://skillicons.dev/icons?i=ai" title="Cursor AI" />
   <img src="https://skillicons.dev/icons?i=ai" title="Copilot++" />
   <img src="https://skillicons.dev/icons?i=ai" title="GPT 4o+" />
