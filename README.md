@@ -14,51 +14,73 @@
 - 💖 &nbsp; Focusing on Web Development, Game Development, Software Engineering, AI Research
 
 ### 🛠 &nbsp;Tech Stack
-- 🌐 Frontend  
-  <div>
-    <img src="https://skillicons.dev/icons?i=html&perline=14" title="HTML" />
-    <img src="https://skillicons.dev/icons?i=css&perline=14" title="CSS" />
-    <img src="https://skillicons.dev/icons?i=js&perline=14" title="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=ts&perline=14" title="TypeScript" />
-    <img src="https://skillicons.dev/icons?i=vuejs&perline=14" title="VueJS" />
-    <img src="https://skillicons.dev/icons?i=nuxtjs&perline=14" title="Nuxt" />
-    <img src="https://skillicons.dev/icons?i=pinia&perline=14" title="Pinia" />
-    <img src="https://skillicons.dev/icons?i=vite&perline=14" title="Vite" />
-    <img src="https://skillicons.dev/icons?i=react&perline=14" title="React" />
-    <img src="https://skillicons.dev/icons?i=redux&perline=14" title="Redux" />
-    <img src="https://skillicons.dev/icons?i=tailwind&perline=14" title="Tailwind" />
-    <img src="https://skillicons.dev/icons?i=bootstrap&perline=14" title="Bootstrap" />
-    <img src="https://skillicons.dev/icons?i=figma&perline=14" title="Figma" />
-    <img src="https://skillicons.dev/icons?i=photoshop&perline=14" title="Photoshop" />
-  </div>
 
-- 🛢 Backend  
-  <div>
-    <img src="https://skillicons.dev/icons?i=php&perline=14" title="PHP" />
-    <img src="https://skillicons.dev/icons?i=laravel&perline=14" title="Laravel" />
-    <img src="https://skillicons.dev/icons?i=ruby&perline=14" title="Ruby" />
-    <img src="https://skillicons.dev/icons?i=mysql&perline=14" title="MySQL" />
-    <img src="https://skillicons.dev/icons?i=nodejs&perline=14" title="Node.js" />
-    <img src="https://skillicons.dev/icons?i=next&perline=14" title="Next.js" />
-    <img src="https://skillicons.dev/icons?i=prisma&perline=14" title="Prisma" />
-    <img src="https://skillicons.dev/icons?i=graphql&perline=14" title="GraphQL" />
-    <img src="https://skillicons.dev/icons?i=c&perline=14" title="C" />
-    <img src="https://skillicons.dev/icons?i=cpp&perline=14" title="C++" />
-    <img src="https://skillicons.dev/icons?i=lua&perline=14" title="Lua" />
-    <img src="https://skillicons.dev/icons?i=python&perline=14" title="Python" />
-  </div>
+## 🌐 Web Development
+<div>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" title="Nuxt" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vuex" />
+  <img src="https://skillicons.dev/icons?i=pinia" title="Pinia" />
+</div>
 
-- ⚙️ Tools & IDEs  
-  <div>
-    <img src="https://skillicons.dev/icons?i=git&perline=14" title="Git" />
-    <img src="https://skillicons.dev/icons?i=github&perline=14" title="GitHub" />
-    <img src="https://skillicons.dev/icons?i=md&perline=14" title="Markdown" />
-    <img src="https://skillicons.dev/icons?i=vscode&perline=14" title="Visual Studio Code" />
-    <img src="https://skillicons.dev/icons?i=visualstudio&perline=14" title="Visual Studio" />
-    <img src="https://skillicons.dev/icons?i=kali&perline=14" title="Kali Toolkit" />
-    <img src="https://skillicons.dev/icons?i=unity&perline=14" title="Unity" />
-    <img src="https://skillicons.dev/icons?i=aws&perline=14" title="AWS" />
-  </div>
+## 🛢 Backend Development
+<div>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
+</div>
+
+## 🎮 Game Development
+<div>
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=lua" title="Lua" />
+</div>
+
+## 🖥️ Desktop Development
+<div>
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+</div>
+
+## ☁️ Infrastructure, OS and Cloud
+<div>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=windows" title="Windows" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=kali" title="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=heroku" title="Heroku" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+</div>
+
+## 🔧 Misc Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=ps" title="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=unity" title="Unity" />
+  <img src="" title="Aseprite" />
+  <img src="https://skillicons.dev/icons?i=ai" title="Cursor AI" />
+  <img src="https://skillicons.dev/icons?i=ai" title="Copilot++" />
+  <img src="https://skillicons.dev/icons?i=ai" title="GPT 4o+" />
+</div>
+
 
 ### 🗺️ &nbsp;Projects
 - 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
