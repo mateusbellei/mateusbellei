@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=reactjs" title="React.js" />
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" />
   <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
   <img src="https://skillicons.dev/icons?i=next" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=vuejs" title="Vue.js" />
