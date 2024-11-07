@@ -48,6 +48,7 @@
 <div>
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
   <img src="https://skillicons.dev/icons?i=lua" title="Lua" />
 </div>
 
