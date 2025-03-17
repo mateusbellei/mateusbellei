@@ -9,9 +9,10 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Graduated in Computer Science.
 - 🦾 &nbsp; Mastering Vue, Laravel, Python and C++
-- ⏱️ &nbsp; +3 Years of experience with commercial software web development
+- ⏱️ &nbsp; Experience with commercial software web development since 2021
+- ⏱️ &nbsp; Experience with software development and game development since 2018
 - 🚀 &nbsp; Never stop learning mindset
-- 💖 &nbsp; Focusing on Web Development, Game Development, Software Engineering, AI Research
+- 💖 &nbsp; Focusing on Web Development, Game Development, Software Engineering, Cybersecurity and AI.
 
 ### 🛠 &nbsp;Tech Stack
 
