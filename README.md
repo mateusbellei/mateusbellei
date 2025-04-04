@@ -86,6 +86,7 @@
   <img width="48" height="48" src="https://avatars.githubusercontent.com/u/126759922?s=48&v=4" title="Cursor AI" />
   <img width="48" height="48" src="https://avatars.githubusercontent.com/u/126759922?s=48&v=4" src="https://skillicons.dev/icons?i=ai" title="Copilot++" />
   <img width="48" height="48" src="https://avatars.githubusercontent.com/u/14957082?s=48&v=4" title="GPT 4o+" />
+  <img width="48" height="48" src="https://github.com/user-attachments/assets/4d5bb0ef-286a-42df-b75b-dcc5786eadec" title="Claude Antrophic AI" />
 </div>
 
 
