@@ -89,10 +89,6 @@
   <img width="48" height="48" src="https://github.com/user-attachments/assets/4d5bb0ef-286a-42df-b75b-dcc5786eadec" title="Claude Antrophic AI" />
 </div>
 
-
-### 🗺️ &nbsp;Projects
-- 🌐 &nbsp; Developing on KoreConX as Frontend Developer with Vue JS
-
 ### Work Activity
 
 <!--- stats & Trophy (start) -->
